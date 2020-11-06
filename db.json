@@ -1,9 +1,52 @@
 { 
-    "data": [{
-	"id": "1",
-	"uid": "Test",
-	"place": "Test",
-	"time": "12",
-	"run": "2020-10-15 16:46:00"
-    }]
+    "data": [
+  {
+    "uid": "laborum",
+    "site": "Salunga",
+    "type": "all",
+    "depth": 2,
+    "frequency": 19,
+    "last_run": "Sat Jun 16 2001 08:18:27 GMT+0000 (UTC)"
+  },
+  {
+    "uid": "irure",
+    "site": "Rosewood",
+    "type": "all",
+    "depth": 2,
+    "frequency": 10,
+    "last_run": "Sun Feb 15 2004 06:02:25 GMT+0000 (UTC)"
+  },
+  {
+    "uid": "laboris",
+    "site": "Crenshaw",
+    "type": "all",
+    "depth": 2,
+    "frequency": 10,
+    "last_run": "Fri Jan 06 1989 01:22:36 GMT+0000 (UTC)"
+  },
+  {
+    "uid": "laboris",
+    "site": "Sharon",
+    "type": "all",
+    "depth": 4,
+    "frequency": 18,
+    "last_run": "Thu Aug 18 1977 15:02:13 GMT+0000 (UTC)"
+  },
+  {
+    "uid": "elit",
+    "site": "Flintville",
+    "type": "all",
+    "depth": 3,
+    "frequency": 8,
+    "last_run": "Thu Aug 30 2012 13:24:35 GMT+0000 (UTC)"
+  },
+  {
+    "uid": "eu",
+    "site": "Florence",
+    "type": "all",
+    "depth": 4,
+    "frequency": 6,
+    "last_run": "Sat Jan 03 1987 01:57:36 GMT+0000 (UTC)"
+  }
+]
 }
